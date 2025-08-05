@@ -1,7 +1,5 @@
-# sql-database-practice-exercises
-A complete SQL practice project with database creation, sample data, and 100+ beginner to advanced SQL queries using joins, subqueries, date functions, aggregation, and more.
 # SQL Database Practice Exercises
-
+A complete SQL practice project with database creation, sample data, and 100+ beginner to advanced SQL queries using joins, subqueries, date functions, aggregation, and more.
 This project contains SQL scripts for practicing database concepts such as:
 - Creating databases and tables
 - Writing DML (INSERT, UPDATE, DELETE)
