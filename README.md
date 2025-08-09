@@ -23,3 +23,15 @@ Contains DDL, DML, and a series of SQL queries for learning and interview prepar
 ---
 
 ## 📂 Project Structure
+student-management-system-sql/
+│── schema.sql           # Creates the database schema (tables, relationships, constraints)
+│── data.sql             # Inserts sample data for testing
+│── queries.sql          # Collection of SQL queries for different operations
+│── README.md            # Documentation for the project
+│── images/              # Folder for screenshots or diagrams
+│   ├── db-diagram.png   # ER diagram of the database
+│   └── sample-output.png # Example output from queries
+
+
+
+
